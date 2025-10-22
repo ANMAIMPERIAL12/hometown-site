@@ -6,7 +6,7 @@ This project was created as part of a hometown showcase assignment to demonstrat
 ---
 
 ## 🚀 Live Demo
-**[View Website on Netlify](https://your-netlify-link-here.netlify.app)**  
+**[View Website on Netlify](https://hometownwebsiteprac.netlify.app/)**  
 
 ---
 

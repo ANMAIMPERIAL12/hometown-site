@@ -40,13 +40,21 @@ This project was created as part of a hometown showcase assignment to demonstrat
 
 hometown-site/
 │
+
 ├── index.html
+
 ├── style.css
+
 └── images/
+
 ├── cityimage2.jpg
+
 ├── centreimage.jpeg
+
 ├── ecopark.jpg
+
 ├── gm.jpg
+
 └── profilepic.jpg
 
 ---

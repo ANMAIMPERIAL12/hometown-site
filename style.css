@@ -35,7 +35,7 @@ body {
     justify-content: center;
     width: 100%;
     height: 343px;
-    background-image: url(../hometown-site/images/cityimage2.jpg);
+    background-image: url(/images/cityimage2.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -229,3 +229,4 @@ img {
         width: 90%;
     }
 }
+
